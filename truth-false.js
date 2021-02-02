@@ -1,4 +1,4 @@
-const name = "salman"
+const name = undefined
 if (name){
     console.log("condition is true");
 }
